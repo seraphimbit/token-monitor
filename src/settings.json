@@ -1,0 +1,12 @@
+{
+    "ws":"",
+    "rpc":"",
+    "raydium_settings":{
+        "raydium_program_id":"675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+        "work":false
+    },
+    "pumpfun_settings":{
+        "pumpfun_program_id":"TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+        "work":false
+    }
+}
