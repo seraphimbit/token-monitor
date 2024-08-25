@@ -5,10 +5,7 @@ This is a vanilla token and pool tracker. It tracks newly minted tokens on Pumpf
 Make sure to enable the correct action from the monitor in the  `./src/settings` file. Note that you can only monitor one action at a time, as running multiple actions simultaneously could interfere with your RPC and cause rate limiting.
 
 ```shell
-# Install packages
-cargo install
-
-# Run cli
+#This will install the packages and run the CLI 
 cargo run
 ```
 
