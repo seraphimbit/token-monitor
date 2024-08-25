@@ -1,4 +1,4 @@
-# TOKEN AND POOL MONITOR 🪙
+# TOKEN AND POOL MONITOR
 This is a vanilla token and pool tracker. It tracks newly minted tokens on Pumpfun and newly created pools on Raydium. It's super basic and ready to use.
 
 ## Getting Started
